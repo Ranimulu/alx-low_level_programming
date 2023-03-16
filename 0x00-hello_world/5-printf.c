@@ -1,7 +1,12 @@
 #include <stdio.h>
 /**
- *main - entry point
- *return: always 0 (success)
+ * main - entry point
+ * description - starting point of program
+ *
+ * Return:  integer value 0
+ * description - always 0 is success
+ *
+ * printf: prints contents of parenthesis
  */
 int main(void)
 {
